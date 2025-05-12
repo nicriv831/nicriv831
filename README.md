@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 My name is Nick Rivelli and I am a trader and analyst located in the San Francisco Bay Area.
+
+After seven enriching years in Private Wealth Management, I decided to leverage my financial industry knowledge while pursuing my interest in quantitative analysis. My interactions with portfolio managers and traders deepened my curiosity in insights driving investment decisions, motivating me to develop technical skills that would enable me to contribute directly to the investment process.
+
+This realization led me to complete an intensive Data Science program at LearningFuze, where I studied Python programming, statistical analysis, and data visualization techniques applicable to financial market analysis. The has allowed me to add valuable technical capabilities to my client service expertise, creating a skill set that connects client understanding with quantitative approaches.
+
+My background provided me with a strong foundation in understanding client needs and investment objectives, while my newly acquired data science training enables me to analyze market trends, identify opportunities, and contribute to investment strategy development. This combination positions me to approach trading and analysis with both technical insight and a client-centric perspective.
+
+I'm particularly interested in applying data science concepts to financial data sets to explore patterns and insights that complement traditional analysis methods. My transition from front-facing to a more analytical focus reflects my commitment to continuous growth and my desire to contribute more to decision-making processes.
+
+I'm excited to blend my client service experience and developing technical capabilities in a trading or analyst role where I can help translate data into actionable investment strategies that deliver meaningful results for clients and stakeholders.
 
 <!--
 **nicriv831/nicriv831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
