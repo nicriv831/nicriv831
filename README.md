@@ -1,12 +1,12 @@
 ## Hi there 👋 My name is Nick Rivelli and I am a trader and analyst located in the San Francisco Bay Area.
 
-"After graduating with a degree in journalism, I discovered my passion for financial markets through trading and have since dedicated my career to developing analytical expertise and market knowledge.
+After graduating with a degree in journalism, I discovered my passion for financial markets through trading and have since dedicated my career to developing analytical expertise and market knowledge.
 
 After passing Level I of the CFA and gaining several years of experience in Private Wealth and Client Services, I began learning data science and Python programming. This developing skill set, combined with my financial industry experience, allows me to approach investment analysis with both traditional market insights and technical capabilities.
 
 I am currently working on a project that estimates NFL player injury risk to create a season-long fantasy football score predictor.
 
-I am focused on advancing my career as a quantitative analyst or trader, leveraging my financial acumen, client service experience, and growing technical skills to drive profitable investment decisions."
+I am focused on advancing my career as a quantitative analyst or trader, leveraging my financial acumen, client service experience, and growing technical skills to drive profitable investment decisions.
 
 <!--
 **nicriv831/nicriv831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
